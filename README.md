@@ -34,23 +34,28 @@ Objectives :
 Key Business Questions Answered :
  1. Top 5 Best-Selling Products  
 - Identified highest-selling products based on order volume.  
-- Insight: Helps optimize inventory planning and marketing promotions.  
+- Insight: Helps optimize inventory planning and marketing promotions.
+  <img width="1920" height="1080" alt="Result1" src="https://github.com/user-attachments/assets/3f0a1a32-dcd4-4b9e-b8c1-3a2d580f7460" />
 
  2. Highest Revenue-Generating Customers  
 - Ranked customers by total purchase value.  
-- Insight: Supports loyalty programs and personalized offers.  
+- Insight: Supports loyalty programs and personalized offers.
+  <img width="1920" height="1080" alt="Result2" src="https://github.com/user-attachments/assets/c3786916-b849-4d1e-aee3-f6f9e92fc540" />
 
  3. Sales Trends by Region & Month  
 - Analyzed geographic sales distribution and seasonal patterns.  
 - Insight: Informs regional expansion strategy and campaign timing.  
+ <img width="1920" height="1080" alt="Result3" src="https://github.com/user-attachments/assets/1938f89f-891c-4cf2-ba93-50c2cbbb9d3c" />
 
  4. Category with Highest Return Rate  
 - Measured return frequency by category.  
-- Insight: Helps address quality control issues and reduce costs.  
+- Insight: Helps address quality control issues and reduce costs.
+  <img width="1920" height="1080" alt="Result4" src="https://github.com/user-attachments/assets/44e44615-d947-4512-b8df-a453b60f419c" />
 
  5. Average Order Value (AOV) Trend  
 - Monitored AOV over time to track customer spending behavior.  
-- Insight: Guides pricing strategy and bundling offers.  
+- Insight: Guides pricing strategy and bundling offers.
+  <img width="1920" height="1080" alt="Result5" src="https://github.com/user-attachments/assets/bccdaae1-3307-4dfa-a32e-9f23bff3ecb3" />
 
 Tools & Skills Used :
 - SQL Clauses: SELECT, WHERE, GROUP BY, ORDER BY, LIMIT
