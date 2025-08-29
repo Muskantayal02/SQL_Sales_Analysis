@@ -61,7 +61,7 @@ Tools & Skills Used :
 
 Outcome :
 
-This project demonstrates end-to-end SQL application — from creating a database to solving real business problems.
+This project demonstrates end-to-end SQL application, from creating a database to solving real business problems.
 It highlights not only technical skills in SQL but also the ability to think like an analyst and provide insights that matter to decision-makers.
 
 
