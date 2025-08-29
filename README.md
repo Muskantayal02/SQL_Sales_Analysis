@@ -64,4 +64,10 @@ Outcome :
 This project demonstrates end-to-end SQL application, from creating a database to solving real business problems.
 It highlights not only technical skills in SQL but also the ability to think like an analyst and provide insights that matter to decision-makers.
 
+Files Included :
+- `ecommerce_project.db` → Database with 4 tables
+- `analysis_queries.sql` → All SQL queries for the analysis
+- `Analysis_Output(1)- Analysis_Output(5) → CSV outputs of each query
+- Embedded screenshots → for executed queries and outputs
+
 
