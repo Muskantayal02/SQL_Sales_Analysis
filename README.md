@@ -1,9 +1,11 @@
 # E-Commerce Sales Analysis SQL Project
 
 About:
+
 SQL project analyzing e-commerce sales data to to answer key business questions such as best-selling products, top customers, regional and seasonal sales patterns, return rates, and trends in average order value (AOV). The project highlights practical SQL techniques for deriving business insights from raw data.
 
 Project Overview :
+
 This project is a hands-on SQL case study simulating a retail sales database. It demonstrates how SQL can be applied to analyze customer behavior, product performance, and revenue trends to support business decision-making.
 The goal is to answer critical business questions such as:  
 - Which products are best-sellers?  
@@ -58,6 +60,7 @@ Tools & Skills Used :
 - CASE Statements for categorization
 
 Outcome :
+
 This project demonstrates end-to-end SQL application — from creating a database to solving real business problems.
 It highlights not only technical skills in SQL but also the ability to think like an analyst and provide insights that matter to decision-makers.
 
