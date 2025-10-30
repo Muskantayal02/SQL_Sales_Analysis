@@ -1,10 +1,10 @@
 # E-Commerce Sales Analysis SQL Project
 
-About:
+**About:**
 
 SQL project analyzing e-commerce sales data to to answer key business questions such as best-selling products, top customers, regional and seasonal sales patterns, return rates, and trends in average order value (AOV). The project highlights practical SQL techniques for deriving business insights from raw data.
 
-Project Overview :
+**Project Overview :**
 
 This project is a hands-on SQL case study simulating a retail sales database. It demonstrates how SQL can be applied to analyze customer behavior, product performance, and revenue trends to support business decision-making.
 The goal is to answer critical business questions such as:  
@@ -16,7 +16,7 @@ The goal is to answer critical business questions such as:
 
 By addressing these questions, the project demonstrates how structured query language (SQL) can be applied to derive insights, support data-driven decisions, and optimize business performance.
 
-Objectives :
+**Objectives :**
 1. Database Creation & Setup-
 - Designed tables for customers, products, orders, order_items, and returns.
 - Defined primary and foreign key relationships to maintain data integrity and consistency.
@@ -31,7 +31,7 @@ Objectives :
 - Implemented GROUP BY, ORDER BY, WHERE, HAVING clauses for segmentation and filtering.
 - Leveraged window functions and subqueries for advanced trend identification and ranking insights.
   
-Key Business Questions Answered :
+**Key Business Questions Answered :**
  1. Top 5 Best-Selling Products  
 - Identified highest-selling products based on order volume.  
 - Insight: Helps optimize inventory planning and marketing promotions.
@@ -57,22 +57,23 @@ Key Business Questions Answered :
 - Insight: Guides pricing strategy and bundling offers.
   <img width="1920" height="1080" alt="Result5" src="https://github.com/user-attachments/assets/bccdaae1-3307-4dfa-a32e-9f23bff3ecb3" />
 
-Tools & Skills Used :
+**Tools & Skills Used :**
 - SQL Clauses: SELECT, WHERE, GROUP BY, ORDER BY, LIMIT
 - Aggregate Functions: COUNT(), SUM(), AVG()
 - Joins: INNER JOIN, LEFT JOIN
 - Date Functions: MONTH(), YEAR(), DATE_FORMAT()
 - CASE Statements for categorization
 
-Outcome :
+**Outcome :**
 
 This project demonstrates end-to-end SQL application, from creating a database to solving real business problems.
 It highlights not only technical skills in SQL but also the ability to think like an analyst and provide insights that matter to decision-makers.
 
-Files Included :
+**Files Included :**
 - `ecommerce_project.db` → Database with 4 tables
 - `analysis_queries.sql` → All SQL queries for the analysis
 - `Analysis_Output(1)- Analysis_Output(5) → CSV outputs of each query
 - Embedded screenshots → for executed queries and outputs
 
+**_Designed and documented by [Muskan Tayal](https://www.linkedin.com/in/muskan-tayal-820145225)_**
 
